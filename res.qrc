@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pid.png</file>
+        <file>ball.png</file>
+        <file>fan.bmp</file>
+        <file>off.png</file>
+        <file>on.png</file>
+    </qresource>
+</RCC>
